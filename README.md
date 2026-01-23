@@ -1,0 +1,1 @@
+Analyzed customer purchasing behavior for a retail business using Excel and Python. Segmented customers based on buying patterns and loyalty, and created interactive dashboards in Excel to visualize trends. Delivered actionable insights to improve marketing and retention strategies.
